@@ -4,6 +4,12 @@ Kite Autocomplete Extension for JupyterLab
 - Kite helps you write code faster by saving you keystrokes and showing you the right information at the right time.
 - Learn more about how Kite boosts your JupyterLab editor's capabilities at https://kite.com/integrations/jupyter/.
 
+### gradio_test
+Gradio lets you build and deploy web apps for your machine learning models in as little as three lines of code. It serves the same purpose as Streamlit or Flask, but I found it much faster and easier to get a model deployed.
+Gradio is useful for the following reasons:
+- It allows for further model validation. Specifically, it allows you to interactively test different inputs into the model.
+- It’s a good way to conduct demos.
+- It’s easy to implement and distribute because the web app is accessible by anyone through a public link.
 
 ### AB_testing
 Examples of AB testing setup in python
